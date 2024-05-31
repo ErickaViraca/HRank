@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HRank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2018388447abd0d4d949888746f0e93247046682")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37596ffd3b0cebcef6444dc0858b014ac73489d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("HRank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HRank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
