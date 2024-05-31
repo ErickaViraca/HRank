@@ -1,0 +1,15 @@
+C:\Users\ericka.viraca\source\repos\HRank\HRank\bin\Debug\net8.0\HRank.exe
+C:\Users\ericka.viraca\source\repos\HRank\HRank\bin\Debug\net8.0\HRank.deps.json
+C:\Users\ericka.viraca\source\repos\HRank\HRank\bin\Debug\net8.0\HRank.runtimeconfig.json
+C:\Users\ericka.viraca\source\repos\HRank\HRank\bin\Debug\net8.0\HRank.dll
+C:\Users\ericka.viraca\source\repos\HRank\HRank\bin\Debug\net8.0\HRank.pdb
+C:\Users\ericka.viraca\source\repos\HRank\HRank\obj\Debug\net8.0\HRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericka.viraca\source\repos\HRank\HRank\obj\Debug\net8.0\HRank.AssemblyInfoInputs.cache
+C:\Users\ericka.viraca\source\repos\HRank\HRank\obj\Debug\net8.0\HRank.AssemblyInfo.cs
+C:\Users\ericka.viraca\source\repos\HRank\HRank\obj\Debug\net8.0\HRank.csproj.CoreCompileInputs.cache
+C:\Users\ericka.viraca\source\repos\HRank\HRank\obj\Debug\net8.0\HRank.sourcelink.json
+C:\Users\ericka.viraca\source\repos\HRank\HRank\obj\Debug\net8.0\HRank.dll
+C:\Users\ericka.viraca\source\repos\HRank\HRank\obj\Debug\net8.0\refint\HRank.dll
+C:\Users\ericka.viraca\source\repos\HRank\HRank\obj\Debug\net8.0\HRank.pdb
+C:\Users\ericka.viraca\source\repos\HRank\HRank\obj\Debug\net8.0\HRank.genruntimeconfig.cache
+C:\Users\ericka.viraca\source\repos\HRank\HRank\obj\Debug\net8.0\ref\HRank.dll
